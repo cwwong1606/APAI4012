@@ -9,12 +9,11 @@ sudo apt install python3-pip
 ```
 pip install -r requirements.txt
 ```
-3. To print outputs on command window, run\n
-For question 2,
+3. To print outputs on command window, for question 2,
 ```
 python3 Q2.py
 ```
-For question 4,
+And for question 4,
 ```
 python3 Q4.py
 ```

@@ -1,11 +1,11 @@
 # APAI4012
 
-1. Install python and pip, run
+1. Before running the scripts, we need to install python
 ```
 sudo apt install python3
 sudo apt install python3-pip
 ```
-2. Installl required environment, run
+2. And also install required envs,
 ```
 pip install -r requirements.txt
 ```
